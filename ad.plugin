@@ -1,4 +1,4 @@
-hostname =act.vip.iqiyi.com, intl.iqiyi.com
+hostname = act.vip.iqiyi.com, intl.iqiyi.com
 [URL Rewrite]
 #爱奇艺
 ^https?:\/\/iface\.iqiyi\.com\/api\/getNewAdInfo - reject
