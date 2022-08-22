@@ -1,3 +1,4 @@
+[MITM]
 hostname = act.vip.iqiyi.com, intl.iqiyi.com
 [URL Rewrite]
 #爱奇艺
