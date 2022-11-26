@@ -4,7 +4,7 @@
 #!author=
 #!icon=
 
-[Script]
+#[Script]
 
 # > 麻豆社区解锁全部视频
 #http-response ^https?:\/\/.*\/api\/app\/media\/m3u8\/.*\.m3u8 
